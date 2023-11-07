@@ -2,3 +2,4 @@ This is a text file for my test project
 This is a New file for test edit btn
 This is a New Line for Checking branches
 This is also a New line for Checking branches
+This is Also a New Line222 for Checking confilict error
